@@ -1,0 +1,32 @@
+D:\School Assignment\C#III\ForFinal\SQLSERVER\SQLSERVER\bin\Debug\SQLSERVER.exe.config
+D:\School Assignment\C#III\ForFinal\SQLSERVER\SQLSERVER\bin\Debug\SQLSERVER.exe
+D:\School Assignment\C#III\ForFinal\SQLSERVER\SQLSERVER\bin\Debug\SQLSERVER.pdb
+D:\School Assignment\C#III\ForFinal\SQLSERVER\SQLSERVER\obj\Debug\SQLSERVER.csproj.AssemblyReference.cache
+D:\School Assignment\C#III\ForFinal\SQLSERVER\SQLSERVER\obj\Debug\SQLSERVER.csproj.SuggestedBindingRedirects.cache
+D:\School Assignment\C#III\ForFinal\SQLSERVER\SQLSERVER\obj\Debug\SQLSERVER.Form1.resources
+D:\School Assignment\C#III\ForFinal\SQLSERVER\SQLSERVER\obj\Debug\SQLSERVER.Properties.Resources.resources
+D:\School Assignment\C#III\ForFinal\SQLSERVER\SQLSERVER\obj\Debug\SQLSERVER.csproj.GenerateResource.cache
+D:\School Assignment\C#III\ForFinal\SQLSERVER\SQLSERVER\obj\Debug\SQLSERVER.csproj.CoreCompileInputs.cache
+D:\School Assignment\C#III\ForFinal\SQLSERVER\SQLSERVER\obj\Debug\SQLSERVER.exe
+D:\School Assignment\C#III\ForFinal\SQLSERVER\SQLSERVER\obj\Debug\SQLSERVER.pdb
+D:\School Assignment\C#III\ForFinal\SQLSERVER\SQLSERVER\obj\Debug\SQLSERVER.Login.resources
+D:\School Assignment\C#III\ForFinal\SQLSERVER\SQLSERVER\obj\Debug\SQLSERVER.ShowEmployee.resources
+D:\School Assignment\C#III\ForFinal\SQLSERVER\SQLSERVER\obj\Debug\SQLSERVER.Lottery.resources
+D:\C#\SQLSERVER\SQLSERVER\bin\Debug\SQLSERVER.exe.config
+D:\C#\SQLSERVER\SQLSERVER\bin\Debug\SQLSERVER.exe
+D:\C#\SQLSERVER\SQLSERVER\bin\Debug\SQLSERVER.pdb
+D:\C#\SQLSERVER\SQLSERVER\obj\Debug\SQLSERVER.Form1.resources
+D:\C#\SQLSERVER\SQLSERVER\obj\Debug\SQLSERVER.Login.resources
+D:\C#\SQLSERVER\SQLSERVER\obj\Debug\SQLSERVER.Lottery.resources
+D:\C#\SQLSERVER\SQLSERVER\obj\Debug\SQLSERVER.Properties.Resources.resources
+D:\C#\SQLSERVER\SQLSERVER\obj\Debug\SQLSERVER.ShowEmployee.resources
+D:\C#\SQLSERVER\SQLSERVER\obj\Debug\SQLSERVER.csproj.GenerateResource.cache
+D:\C#\SQLSERVER\SQLSERVER\obj\Debug\SQLSERVER.csproj.CoreCompileInputs.cache
+D:\C#\SQLSERVER\SQLSERVER\obj\Debug\SQLSERVER.exe
+D:\C#\SQLSERVER\SQLSERVER\obj\Debug\SQLSERVER.pdb
+D:\C#\SQLSERVER\SQLSERVER\obj\Debug\SQLSERVER.csproj.AssemblyReference.cache
+D:\C#\SQLSERVER\SQLSERVER\obj\Debug\SQLSERVER.AddProduct.resources
+D:\C#\SQLSERVER\SQLSERVER\obj\Debug\SQLSERVER.ShowProduct.resources
+D:\C#\SQLSERVER\SQLSERVER\obj\Debug\SQLSERVER.OrderProduct.resources
+D:\C#\SQLSERVER\SQLSERVER\obj\Debug\SQLSERVER.ProductLayout.resources
+D:\C#\SQLSERVER\SQLSERVER\obj\Debug\SQLSERVER.Payment.resources
